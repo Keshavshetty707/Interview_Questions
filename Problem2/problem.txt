@@ -1,0 +1,10 @@
+Print the following
+pattern for the given
+number of rows.
+Input :
+4
+Output :
+1234
+9101112
+13141516
+5678
