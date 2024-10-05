@@ -1,0 +1,9 @@
+Print the following
+pattern for the given
+number of rows.
+Input: N = 3 (No. of rows = 5, No. columns = 5)
+1 1
+2 2
+3
+2 2
+1 1
